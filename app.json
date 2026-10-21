@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "LOCKERZ",
+    "slug": "lockerz",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./icon.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#000000",
+    "android": {
+      "package": "com.lockerz.app",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./adaptive-icon.png",
+        "backgroundColor": "#000000"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "PASTE_YOUR_EXPO_PROJECT_ID_HERE"
+      }
+    }
+  }
+}
